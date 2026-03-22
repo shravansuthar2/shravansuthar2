@@ -18,7 +18,7 @@
 
 I'm a 2nd year Computer Science student who builds full stack applications and explores AI.
 I like picking up hard problems and figuring things out — from backend APIs to AI-powered systems.
-Currently deepening my skills in Python, Java, Docker, and system design.
+Currently deepening my skills in Python, Java, MongoDB, and system design.
 
 ---
 
@@ -36,13 +36,13 @@ Currently deepening my skills in Python, Java, Docker, and system design.
 | Tech | What I know |
 |---|---|
 | **REST APIs** | Designed and built APIs using Python (Flask/FastAPI) and Node.js |
-| **Databases** | SQL, basic database design, CRUD operations |
+| **Databases** | MongoDB, SQLite, SQL, Firebase Firestore |
 | **Authentication** | User auth flows, token-based systems |
 
 #### DevOps & Tools — how I ship
 | Tool | What I do with it |
 |---|---|
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker** | Containerize apps, write Dockerfiles, use Docker Compose |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB** | NoSQL database, Mongoose ODM, schema design |
 | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git & GitHub** | Version control, branching, collaboration |
 | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux** | Command line, shell scripting, server basics |
 | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) **VS Code** | Primary editor with extensions & debugging |
@@ -65,9 +65,9 @@ Currently deepening my skills in Python, Java, Docker, and system design.
 
 | Project | What it does | Tech |
 |---|---|---|
-| [Smart Crowd Safety](https://github.com/shravansuthar2/smart-crowd-safety) | AI system for crowd detection, missing person finding & fire detection | Python, YOLO, OpenCV |
-| [SplitBill App](https://github.com/shravansuthar2/splitbill-api) | Full stack bill splitting app — API + frontend | Python, REST API |
-| [Todo Backend](https://github.com/shravansuthar2/todo-backend) | REST API for task management | Node.js, JavaScript |
+| [Smart Crowd Safety](https://github.com/shravansuthar2/smart-crowd-safety) | AI system for crowd detection, missing person finding & fire detection | Python, YOLOv8, OpenCV, FastAPI |
+| [FlowSpace](https://github.com/shravansuthar2/todo-backend) | SaaS project management platform — auth, projects, tasks, analytics | Node.js, Express, MongoDB, JWT |
+| [SplitBill App](https://github.com/shravansuthar2/splitbill-api) | Bill splitting app with shareable codes and auto-split calculation | Python, FastAPI, SQLite |
 
 ---
 
